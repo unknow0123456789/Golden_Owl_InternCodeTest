@@ -1,5 +1,5 @@
 # Golden_Owl_InternCodeTest
-A flutter application as the task of the internship Test
+A Flutter application as the task of the internship Test
 
 
 # Completed Goals
@@ -15,6 +15,6 @@ A flutter application as the task of the internship Test
   - The second page is `Your Cart` which displays all the products that the user has chosen and the quantities of them. Here the users can change the quantities of those products by the `minus` and `bonus` buttons, they will also be able to completely erase a product from their cart with the `bin` button. Once a product has been erased from the cart, its `add to cart` button will become available again.
   - The application comes with `Share_reference` plugin from `Flutter` which enables it to save products in users' carts locally, allowing the data to be `persistent`.
 # Demo Video
-[![Xem video](https://img.youtube.com/vi/)]([https://www.youtube.com/embed/<VIDEO_ID>](https://github.com/unknow0123456789/Golden_Owl_InternCodeTest/blob/main/Demo_AppTestGoldenOwl.mp4)https://github.com/unknow0123456789/Golden_Owl_InternCodeTest/blob/main/Demo_AppTestGoldenOwl.mp4)
+[![Xem video](https://img.youtube.com/vi/)](https://youtu.be/dB5HuKMYfrg)
 
 [LDlink]:https://gshoes.vercel.app
